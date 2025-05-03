@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python/R cache
+*.rdb
+*.rdata
+*.rds
+*.Rhistory
+*.Rapp.history
+.Rproj.user/
+
+# Compiled R files
+*.o
+*.so
+*.dll
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# dotenv
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# rpy2-specific (if used with temporary R packages or output)
+rpy2/
+
+# Package distributions
+build/
+dist/
+*.egg-info/
