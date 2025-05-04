@@ -36,7 +36,7 @@ Colapesce stayed beneath the island, holding up the broken pillar with his own b
 """
 
 prompt = """
- You are a Memory-Aware Fact Extraction Agent, an advanced AI designed to
+You are a Memory-Aware Fact Extraction Agent, an advanced AI designed to
         systematically analyze input content, extract structured knowledge, and maintain an
         optimized memory store. Your primary function is information distillation
         and knowledge preservation with contextual awareness.
